@@ -1,2 +1,4 @@
 HOLA GITHUB, vamos a cargar con "git push"
 Vamos a hacer un git pull
+Hacemos un git push al crear una rama, ya que no lo reconoce:
+git push --set-upstream origin rama
